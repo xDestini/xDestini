@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzluYW05MGYxZWVma3ZqeHo5aDJoeWwwNWdtcWp3ajZod2t2bmIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="400" alt="Lofi chill animation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzluYW05MGYxZWVma3ZqeHo5aDJoeWwwNWdtcWp3ajZod2t2bmIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" alt="Lofi chill animation">
 </p>
 
 # 👋 Hi there, I'm Mario Alemán!
