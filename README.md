@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzluYW05MGYxZWVma3ZqeHo5aDJoeWwwNWdtcWp3ajZod2t2bmIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="100%" alt="Lofi chill animation">
 </p>
 
-# 👋 Hi there, I'm Mario Alemán!
+# 👋 Hi there, I'm Mario!
 
 I'm a passionate **software developer** with 3+ years of experience building mobile and web applications. I love turning ideas into real products that people can use, whether it's in the app store, on the web, or as a fun experiment!
 
